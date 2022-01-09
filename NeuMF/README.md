@@ -2,10 +2,7 @@
 
 NeuMF is a combination of matrix factorization and multilayer perceptron. The multilayer perceptron takes the concatenation of user and item embeddings as the input.
 
-<p align="center">
-<img src="./NeuMF/neumf.png" width="600" height="400" />
-</p>
-
+![cim-10-class](./neumf.png)
 
 In this repository you'll find the tensorflow-recommender implementation for NeuMF. To test the architecture for your own case:
 
